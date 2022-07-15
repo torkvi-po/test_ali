@@ -1,0 +1,12 @@
+{
+    "name": "topsdk/topapi",
+    "version": "v1.26.0",
+    "description": "topapi php sdk",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Topsdk\\Topapi\\": "src/"
+        }
+    },
+    "require": {}
+}
